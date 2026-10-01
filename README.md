@@ -1,0 +1,2 @@
+# rizal.github.io
+mygithub
